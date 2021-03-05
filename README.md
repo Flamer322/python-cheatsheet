@@ -5,6 +5,7 @@ Comprehensive Python Cheatsheet
 
 ![Monty Python](web/image_888.jpeg)
 3
+2
 
 Contents
 --------
