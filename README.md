@@ -4,9 +4,9 @@ Comprehensive Python Cheatsheet
 </sup>
 
 ![Monty Python](web/image_888.jpeg)
-1
-2
-3
+13
+22
+31
 
 Contents
 --------
